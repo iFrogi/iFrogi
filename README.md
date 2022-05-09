@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iFrogi
-- 👀 I’m interested in html
-- 🌱 I’m currently learning python
+- 👀 I’m interested in css! 
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on idk
 
 
